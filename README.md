@@ -1,7 +1,7 @@
 # Executive Dashboard - Superstore Sales Overview
 
 ## 📸 Dashboard Preview
-![Dashboard](Superstore_Sales_Executive_Dashboard.png)
+![Dashboard](Executive-Dashboard-overview.png)
 
 ## 📊 Key KPIs
 - Total Orders: 9.44K
